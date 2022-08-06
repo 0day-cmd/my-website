@@ -1,0 +1,50 @@
+
+    body {
+        background-color: rgb(50, 51, 49);
+
+    }
+
+    .card-title {
+        color: aliceblue;
+    }
+
+    .card-text {
+        color: aliceblue;
+    }
+    .my-name {
+        color: rgb(28, 243, 4);
+        font-family: Monospace;
+        font-size: 40px;
+        
+      }
+    .nav-link {
+        color: rgb(28, 243, 4);
+        font-family: Monospace;
+    }
+
+    .welcome {
+        font-family: Monospace;
+        font-size: 42px;
+        text-align: center;
+        color: rgb(28, 243, 4);
+    }
+
+    .update {
+        font-family: Monospace;
+        color: rgb(28, 243, 4);
+        font-size: 27px;
+    }
+
+    .card {
+        background-color: rgb(47, 44, 44);
+    }
+
+    .card-title {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .card-text {
+        text-align: center;
+        font-size: large;
+    }
